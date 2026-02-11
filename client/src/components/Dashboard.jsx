@@ -65,7 +65,7 @@ const Dashboard = () => {
     return (
         <div className="container mx-auto px-4 py-8">
             <header className="mb-10 text-center">
-                <h1 className="text-4xl font-extrabold text-blue-800 mb-2">Plan Your Next Indian Adventure</h1>
+                <h1 className="text-4xl font-extrabold text-blue-800 mb-2">Discover Your Perfect Destination</h1>
                 <p className="text-gray-600">Discover personalized recommendations for your perfect trip.</p>
                 {message && (
                     <div className="fixed top-20 right-4 bg-blue-600 text-white px-6 py-3 rounded-lg shadow-xl z-50 animate-bounce">
